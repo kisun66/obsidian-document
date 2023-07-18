@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5dfb206fa7e276",
+        "id": "b320cada3a36c4ee",
         "type": "tabs",
         "children": [
           {
-            "id": "b31509008a344636",
+            "id": "85d20018fbb57904",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ec2c6bf3943f8c9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Markdown 작성법.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markdown 작성법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Markdown 작성법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Markdown 작성법.md"
+              }
             }
           }
         ]
@@ -149,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3ec2c6bf3943f8c9",
+  "active": "85d20018fbb57904",
   "lastOpenFiles": [
     "Markdown 작성법.md"
   ]

@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b320cada3a36c4ee",
+        "id": "23f66aad8151815b",
         "type": "tabs",
         "children": [
           {
-            "id": "85d20018fbb57904",
+            "id": "98d9245c9f89a0f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1e975ffc0b0bc74",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Markdown 작성법.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.3.5"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +71,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a473cef9dc3dbf9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown 작성법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown 작성법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Markdown 작성법.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +157,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "85d20018fbb57904",
+  "active": "a1e975ffc0b0bc74",
   "lastOpenFiles": [
-    "Markdown 작성법.md"
+    "Markdown 작성법.md",
+    "무제 파일.md"
   ]
 }

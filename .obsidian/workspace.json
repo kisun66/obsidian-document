@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "23f66aad8151815b",
+        "id": "3ebfc7e78f580ce6",
         "type": "tabs",
         "children": [
           {
-            "id": "98d9245c9f89a0f2",
+            "id": "ee4f344104084733",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "a1e975ffc0b0bc74",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a1e975ffc0b0bc74",
+  "active": "ee4f344104084733",
   "lastOpenFiles": [
     "Markdown 작성법.md",
     "무제 파일.md"

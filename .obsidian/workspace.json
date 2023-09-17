@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ebfc7e78f580ce6",
+        "id": "612da410d4420b35",
         "type": "tabs",
         "children": [
           {
-            "id": "ee4f344104084733",
+            "id": "7b14bff784bd8eef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ee4f344104084733",
+  "active": "7b14bff784bd8eef",
   "lastOpenFiles": [
     "Markdown 작성법.md",
     "무제 파일.md"

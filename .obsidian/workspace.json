@@ -8,25 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b14bff784bd8eef",
+            "id": "292171526a1bb411",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c055047a385c613e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "패러렐즈 한영전환 설정법.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "패러렐즈 한영전환 설정법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "패러렐즈 한영전환 설정법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "패러렐즈 한영전환 설정법.md"
+              }
             }
           }
         ]
@@ -157,8 +154,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c055047a385c613e",
+  "active": "720bbabe22045b47",
   "lastOpenFiles": [
+    "SCR-20231102-jlhk.png",
+    "패러렐즈 한영전환 설정법.md",
     "Markdown 작성법.md",
     "무제 파일.md"
   ]

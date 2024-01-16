@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "612da410d4420b35",
+        "id": "7dffdf31641497f0",
         "type": "tabs",
         "children": [
           {
-            "id": "292171526a1bb411",
+            "id": "a684c1d76446757b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "패러렐즈 한영전환 설정법.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "패러렐즈 한영전환 설정법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "패러렐즈 한영전환 설정법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "패러렐즈 한영전환 설정법.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "720bbabe22045b47",
+  "active": "a684c1d76446757b",
   "lastOpenFiles": [
-    "SCR-20231102-jlhk.png",
+    "무제 파일.md",
     "패러렐즈 한영전환 설정법.md",
     "Markdown 작성법.md",
-    "무제 파일.md"
+    "SCR-20231102-jlhk.png"
   ]
 }

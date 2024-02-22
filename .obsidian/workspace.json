@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7dffdf31641497f0",
+        "id": "af7f4cb38e5a7493",
         "type": "tabs",
         "children": [
           {
-            "id": "a684c1d76446757b",
+            "id": "0f1d1cda07f82528",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -148,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a684c1d76446757b",
+  "active": "0f1d1cda07f82528",
   "lastOpenFiles": [
     "무제 파일.md",
     "패러렐즈 한영전환 설정법.md",

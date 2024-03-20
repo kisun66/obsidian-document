@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "af7f4cb38e5a7493",
+        "id": "4b529b1b9452ddc4",
         "type": "tabs",
         "children": [
           {
-            "id": "0f1d1cda07f82528",
+            "id": "4a0a74258fdee353",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -148,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0f1d1cda07f82528",
+  "active": "4a0a74258fdee353",
   "lastOpenFiles": [
+    "8차 TF.md",
     "무제 파일.md",
     "패러렐즈 한영전환 설정법.md",
     "Markdown 작성법.md",

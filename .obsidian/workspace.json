@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b529b1b9452ddc4",
+        "id": "50d9cdacc3a840ac",
         "type": "tabs",
         "children": [
           {
-            "id": "4a0a74258fdee353",
+            "id": "87bd9f23e3cdf4d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4a0a74258fdee353",
+  "active": "87bd9f23e3cdf4d8",
   "lastOpenFiles": [
     "8차 TF.md",
     "무제 파일.md",
